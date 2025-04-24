@@ -66,7 +66,9 @@ plt.title("Decision Tree - Employee Churn Prediction")
 ![image](https://github.com/user-attachments/assets/c92c7ee4-7dc3-49d0-a61c-32d994472ecb)
 
 ![image](https://github.com/user-attachments/assets/602d4741-9e24-4278-a36e-a18c8e340ba8)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/cfe231ab-5a66-4bef-8e61-99772af4218c)
+
 
 
 
